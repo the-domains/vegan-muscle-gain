@@ -1,7 +1,7 @@
 name: Vegan Muscle Gain
 favicon: null
-layout_spectrum: 0.24862
-typography_spectrum: 0.5709886695258319
+layout_spectrum: 1
+typography_spectrum: 0.27435
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.75
+    - '#000000'
+    - '#fefde8'
+    - '#8bae9a'
+    - '#1e1f23'
+    - '#4a4b50'
+  brandStrength: 0.5
   lightness: 0.875
-  saturation: 0.5625
-  rhythmicContrast: 0
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
