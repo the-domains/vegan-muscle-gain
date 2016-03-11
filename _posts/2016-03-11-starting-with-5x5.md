@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'March 10th 2015 - Workout #1'
-datePublished: '2016-03-11T02:15:45.972Z'
-dateModified: '2016-03-11T02:15:22.835Z'
+datePublished: '2016-03-11T02:30:19.331Z'
+dateModified: '2016-03-11T02:29:47.409Z'
 title: Starting with 5x5
 author: []
 sourcePath: _posts/2016-03-11-starting-with-5x5.md
@@ -28,10 +28,21 @@ After some online searching I found a program that was just what I wanted; a ful
 
 The philosophy is simple, you are lifting to get strong - and by increasing strength you also increase muscle mass. You do three compound exercises, five sets with five reps, three times a week. Squat is always among the three exercises. 
 
-As I haven't been lifting much the past months, I was starting out easy and this is what I did today:
+As I haven't been lifting much the past months, I was starting out easy and this is what I did in **todays workout**:
 
 115lb: 5 x 5 - Squat  
 95lb:   5 x 5 - Bench Press  
 75lb:   5 x 5 - Barbell Rows
 
-I also decided to track my weight every Monday morning, and my weight this Monday was
+I also decided to track my weight every Monday morning, and my weight this Monday was:  
+161.8lb (73.4kg)
+
+**Food today (everything organic except for Tofurky)**
+
+* **Breakfast: **  
+- 2 x avocado toast with Tofurky slices and tomatoes  
+- Smoothie (banana, cocoa powder, dates, hemp seeds, chia seeds, cashew&almond milk)
+* **Lunch:**  
+- 2 x avocado toast with Tofurky slices and tomatoes
+* **Dinner:**  
+- Brown rice and curry (coconut milk, tempeh, onion, eggplant, carrot, tomato sauce)
