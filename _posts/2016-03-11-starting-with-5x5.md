@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'March 10th 2015 - Workout #1'
-datePublished: '2016-03-11T02:36:19.602Z'
-dateModified: '2016-03-11T02:36:17.628Z'
+datePublished: '2016-03-11T02:44:20.347Z'
+dateModified: '2016-03-11T02:44:17.785Z'
 title: Starting with 5x5
 author: []
 sourcePath: _posts/2016-03-11-starting-with-5x5.md
@@ -45,10 +45,12 @@ I also decided to track my weight every Monday morning, and my weight this Monda
 * **Lunch:**  
 - 2 x avocado toast with Tofurky slices and tomatoes
 * **Dinner:**  
-- Brown rice and curry (coconut milk, tempeh, onion, eggplant, carrot, tomato sauce)  
+- Brown rice and curry (coconut milk, sweet potato, tempeh, onion, eggplant, carrot, tomato sauce), with handful cashews  
 - Banana chocolate cake
 * **Late meal:**  
 - Quinoa and curry
+
+I also like to sprinkle nutritional yeast on everything I eat.
 
 That's it for today.  
 - M
