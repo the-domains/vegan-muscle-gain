@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'March 10th 2015 - Workout #1'
-datePublished: '2016-03-11T02:15:17.153Z'
-dateModified: '2016-03-11T02:11:49.696Z'
+datePublished: '2016-03-11T02:15:45.972Z'
+dateModified: '2016-03-11T02:15:22.835Z'
 title: Starting with 5x5
 author: []
 sourcePath: _posts/2016-03-11-starting-with-5x5.md
